@@ -1,4 +1,4 @@
-# Miley
+<img src="./banner.png" alt="Miley" width="100%">
 
 **Make the most of your points and miles.**
 
